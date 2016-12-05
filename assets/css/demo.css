@@ -118,8 +118,7 @@
 .logo-container .logo{
     overflow: hidden;
     border-radius: 50%;
-    border: 1px solid #333333;
-    width: 50px;
+    width: 60px;
     float: left;
 }
 
